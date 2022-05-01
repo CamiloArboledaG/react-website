@@ -1,6 +1,6 @@
 # Webpage creada con React
 
-Página web creada con React y probando distintos efectos de CSS, por ejemplo cartas 3D y efecto neón
+Página web creada con React basada en un tutorial de yt y probando distintos efectos de CSS, por ejemplo cartas 3D y efecto neón
 
 ## Comenzando 🚀
 
@@ -28,6 +28,25 @@ En caso de tener NPM:
 npm run
 ```
 
+Esto seria lo que deberias ver:
+
+![index](https://github.com/Minotriz02/react-website/blob/main/gifGit/indexPC.gif)
+
+### Responsive
+
+El diseño es responsive:
+
+![indexResponsive](https://github.com/Minotriz02/react-website/blob/main/gifGit/indexCel.gif)
+
+### Efecto neón y card 3D
+
+Neón:
+
+![neon](https://github.com/Minotriz02/react-website/blob/main/gifGit/neon.gif)
+
+Card 3D:
+
+![card3d](https://github.com/Minotriz02/react-website/blob/main/gifGit/card3d.gif)
 
 ## Construido con 🛠️
 
@@ -35,7 +54,7 @@ npm run
 
 ## Autor ✒️
 
-* **Sebastian López Astudillo** - *Trabajo Inicial* - [Minotriz02](https://github.com/Minotriz02/) 
+* **Sebastian López Astudillo** - *Programación y documentación* - [Minotriz02](https://github.com/Minotriz02/) 
 
 ---
 ⌨️ con ❤️ por [Minotriz02](https://github.com/Minotriz02/) 😊
