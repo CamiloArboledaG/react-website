@@ -57,4 +57,6 @@ Card 3D:
 * **Sebastian López Astudillo** - *Programación y documentación* - [Minotriz02](https://github.com/Minotriz02/) 
 
 ---
-⌨️ con ❤️ por [Minotriz02](https://github.com/Minotriz02/) 😊
+⌨️ con ❤️ por [Minotriz02](https://github.com/Minotriz02/) 😊😊😊😊
+😊😊😊
+
